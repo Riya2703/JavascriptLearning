@@ -11,3 +11,4 @@ console.log(myvar1);
 console.log(myvar2);
 myvar1 ='value changed';
 console.log(myvar1, myvar2);
+console.log(myArray2);
